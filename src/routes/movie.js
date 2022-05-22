@@ -6,3 +6,4 @@ const movieController = require('../app/controllers/MovieController');
 router.use('/', movieController.index)
 
 module.exports =router;
+//git moified
