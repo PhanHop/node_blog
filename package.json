@@ -22,7 +22,9 @@
   "homepage": "https://github.com/PhanHop/node_blog#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "express-handlebars": "^6.0.6"
+    "express-handlebars": "^6.0.6",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.3"
   },
   "devDependencies": {
     "morgan": "^1.10.0"
